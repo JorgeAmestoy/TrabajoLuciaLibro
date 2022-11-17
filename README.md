@@ -2,7 +2,7 @@
 
 ### Cuento
 
- ***“Caperucita Roja”***, Cuentossssssss de papá Ganso, 1697. *Charles Perrault*[^1]
+ ***“Caperucita verde”***, Cuentossssssss de papá Ganso, 1697. *Charles Perrault*[^1]
 
     Caperucita roja salió enseguida en dirección a la casa de su abuela, que vivía en otra aldea. 
     Al pasar por un bosque encontró al compadre lobo que tuvo ganas de comérsela, pero a ello no se atrevió 
